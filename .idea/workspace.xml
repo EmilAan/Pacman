@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64d5f22a-353a-4b3c-9e22-642ef97d3774" name="Changes" comment="test" />
+    <list id="077836f1-3c56-4773-bf68-1fbe4cfeabd4" name="Changes by emil" comment="removed comments" />
+    <list id="baf5d837-2c86-4186-ab55-6c1d6c4564f5" name="Changes by emil1" comment="Changes by emil" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KTFiv0B37ErlQcc2A9WPSlxdRh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/OBJ2100/Pacman&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.31149426&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="S:\USN\OneDrive - USN\4 semester\OBJ2100\Oblig\Pacman" />
+      <recent name="S:\USN\OneDrive - USN\4 semester\OBJ2100\Oblig\Pacman\src\main\java\com\example\pacman" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64d5f22a-353a-4b3c-9e22-642ef97d3774" name="Changes" comment="" />
+      <created>1673990797298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673990797298</updated>
+      <workItem from="1673990798472" duration="358000" />
+      <workItem from="1675000829957" duration="4333000" />
+      <workItem from="1675016422107" duration="71000" />
+      <workItem from="1675018820025" duration="158000" />
+      <workItem from="1675246340244" duration="8868000" />
+      <workItem from="1675521300106" duration="643000" />
+      <workItem from="1675786070595" duration="57000" />
+      <workItem from="1676540660463" duration="109000" />
+      <workItem from="1676655454843" duration="7000" />
+      <workItem from="1676660786751" duration="1226000" />
+      <workItem from="1676725856330" duration="1274000" />
+      <workItem from="1677710978467" duration="9000" />
+      <workItem from="1678102814461" duration="2597000" />
+      <workItem from="1678127639179" duration="4000" />
+      <workItem from="1678147594109" duration="128000" />
+      <workItem from="1678190593316" duration="623000" />
+      <workItem from="1678196984617" duration="36000" />
+      <workItem from="1678197066740" duration="507000" />
+      <workItem from="1678199937618" duration="1826000" />
+      <workItem from="1678202408143" duration="33000" />
+      <workItem from="1678203034588" duration="1014000" />
+      <workItem from="1678220929934" duration="25000" />
+      <workItem from="1678270781889" duration="704000" />
+      <workItem from="1678297770216" duration="620000" />
+      <workItem from="1678301268874" duration="2972000" />
+      <workItem from="1678306878596" duration="7000" />
+      <workItem from="1678373759911" duration="55000" />
+      <workItem from="1678375038684" duration="6556000" />
+      <workItem from="1678395757049" duration="203000" />
+      <workItem from="1678410406218" duration="842000" />
+      <workItem from="1678411546044" duration="196000" />
+      <workItem from="1678463837021" duration="11000" />
+      <workItem from="1678488193432" duration="3164000" />
+      <workItem from="1678492672142" duration="371000" />
+      <workItem from="1678493341388" duration="553000" />
+      <workItem from="1678573017404" duration="17000" />
+      <workItem from="1678597466223" duration="2564000" />
+      <workItem from="1678600049639" duration="657000" />
+      <workItem from="1678602205854" duration="2921000" />
+      <workItem from="1678605921072" duration="13000" />
+      <workItem from="1678607061510" duration="348000" />
+      <workItem from="1678614198674" duration="11431000" />
+      <workItem from="1678641669056" duration="97000" />
+      <workItem from="1678643412509" duration="725000" />
+      <workItem from="1678652486605" duration="5974000" />
+      <workItem from="1678658619091" duration="1755000" />
+      <workItem from="1678660829103" duration="2438000" />
+      <workItem from="1678670014724" duration="788000" />
+      <workItem from="1678732856766" duration="517000" />
+      <workItem from="1678733421331" duration="5288000" />
+      <workItem from="1678739115500" duration="177000" />
+      <workItem from="1678739536572" duration="38000" />
+      <workItem from="1678741001162" duration="674000" />
+      <workItem from="1678750134280" duration="1525000" />
+      <workItem from="1678811656067" duration="2467000" />
+      <workItem from="1678831987098" duration="4257000" />
+      <workItem from="1678844082741" duration="15000" />
+      <workItem from="1678844335594" duration="8000" />
+      <workItem from="1678844433725" duration="820000" />
+      <workItem from="1678879856108" duration="1574000" />
+      <workItem from="1678881934081" duration="854000" />
+      <workItem from="1678895142916" duration="4997000" />
+      <workItem from="1678906576377" duration="71000" />
+      <workItem from="1678937494624" duration="6000" />
+      <workItem from="1678941559972" duration="436000" />
+      <workItem from="1681479272278" duration="271000" />
+      <workItem from="1681479617801" duration="289000" />
+      <workItem from="1681479928420" duration="223000" />
+    </task>
+    <task id="LOCAL−00001" summary="emil">
+      <created>1675254954811</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1675254954811</updated>
+    </task>
+    <task id="LOCAL−00002" summary="player can now detect collision">
+      <created>1678304055754</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1678304055754</updated>
+    </task>
+    <task id="LOCAL−00003" summary="player collision works, coins added to map">
+      <created>1678377823561</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1678377823561</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Pacman collision with Coins removes, but throws ConcurrentModificationException">
+      <created>1678381004743</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1678381004743</updated>
+    </task>
+    <task id="LOCAL−00005" summary="newPlayer colliding with Coins now longer throws ConcurrentModificationException">
+      <created>1678493039979</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1678493039979</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Pacman no longer gets stuck in wall when colliding with wall">
+      <created>1678598716335</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1678598716335</updated>
+    </task>
+    <task id="LOCAL−00007" summary="uhh i renamed some classes i think">
+      <created>1678599742284</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1678599742284</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Coins are alligned on map">
+      <created>1678604624600</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1678604624600</updated>
+    </task>
+    <task id="LOCAL−00009" summary="Replaced for loop for updating Coins array with Iterator. Coins no longer flicker visually on the map">
+      <created>1678605032160</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1678605032160</updated>
+    </task>
+    <task id="LOCAL−00010" summary="All ghosts added">
+      <created>1678622660613</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1678622660613</updated>
+    </task>
+    <task id="LOCAL−00011" summary="Added new classes">
+      <created>1678622727404</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1678622727404</updated>
+    </task>
+    <task id="LOCAL−00012" summary="Added DifferentWall.java that Pacman can walk on">
+      <created>1678626958603</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1678626958603</updated>
+    </task>
+    <task id="LOCAL−00013" summary="Ghosts now move around randomly">
+      <created>1678738627870</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1678738627870</updated>
+    </task>
+    <task id="LOCAL−00014" summary="Changes by emil">
+      <created>1678739132301</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1678739132301</updated>
+    </task>
+    <task id="LOCAL−00015" summary="+workspace.xml">
+      <created>1678739222260</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1678739222260</updated>
+    </task>
+    <task id="LOCAL−00016" summary="Added Javadoc">
+      <created>1678813454609</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1678813454609</updated>
+    </task>
+    <task id="LOCAL−00017" summary="Changes by emil">
+      <created>1678813516631</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1678813516631</updated>
+    </task>
+    <task id="LOCAL−00018" summary="Added Javadoc">
+      <created>1678898259258</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1678898259258</updated>
+    </task>
+    <task id="LOCAL−00019" summary="added lives to pacman">
+      <created>1678898270161</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1678898270161</updated>
+    </task>
+    <task id="LOCAL−00020" summary="Added Javadoc">
+      <created>1678898278970</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1678898278970</updated>
+    </task>
+    <task id="LOCAL−00021" summary="removed comments">
+      <created>1678901207884</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1678901207884</updated>
+    </task>
+    <task id="LOCAL−00022" summary="removed comments">
+      <created>1678901219554</created>
+      <option name="number" value="LOCAL−00022" />
+      <option name="presentableId" value="LOCAL−00022" />
+      <updated>1678901219554</updated>
+    </task>
+    <task id="LOCAL-00023" summary="test">
+      <created>1681479780647</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1681479780647</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="emil" />
+    <MESSAGE value="player can now detect collision" />
+    <MESSAGE value="player collision works, coins added to map" />
+    <MESSAGE value="Pacman collision with Coins removes, but throws ConcurrentModificationException" />
+    <MESSAGE value="newPlayer colliding with Coins now longer throws ConcurrentModificationException" />
+    <MESSAGE value="Pacman no longer gets stuck in wall when colliding with wall" />
+    <MESSAGE value="uhh i renamed some classes" />
+    <MESSAGE value="uhh i renamed some classes i think" />
+    <MESSAGE value="Coins are alligned on map" />
+    <MESSAGE value="Added iterator instead of for loop for updating, coins no longer flicker" />
+    <MESSAGE value="Replaced for loop for updating Coins array with Iterator. Coins no longer flicker visually on the map" />
+    <MESSAGE value="All ghosts added" />
+    <MESSAGE value="Added new classes" />
+    <MESSAGE value="Added DifferentWall.java that Pacman can walk on" />
+    <MESSAGE value="Ghosts now move around randomly" />
+    <MESSAGE value="Changes by emil1" />
+    <MESSAGE value="+workspace.xml" />
+    <MESSAGE value="Changes by emil" />
+    <MESSAGE value="added lives to pacman" />
+    <MESSAGE value="Added Javadoc" />
+    <MESSAGE value="removed comments" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
